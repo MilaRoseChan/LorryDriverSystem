@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverDepot", "DriverDepot\DriverDepot.csproj", "{AB081506-9648-4E39-A2CB-A92BF598AD3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB081506-9648-4E39-A2CB-A92BF598AD3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB081506-9648-4E39-A2CB-A92BF598AD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB081506-9648-4E39-A2CB-A92BF598AD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB081506-9648-4E39-A2CB-A92BF598AD3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD6FD5B6-45A3-4D1A-A4BC-3FE90EE74DC6}
+	EndGlobalSection
+EndGlobal
